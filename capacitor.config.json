@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "devdacticMaps",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

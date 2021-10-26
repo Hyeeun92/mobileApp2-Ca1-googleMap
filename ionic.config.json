@@ -1,0 +1,7 @@
+{
+  "name": "devdacticMaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
